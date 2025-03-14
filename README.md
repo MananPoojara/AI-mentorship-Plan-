@@ -2,7 +2,6 @@
 
 ---
 
-```markdown
 # **AI Mentoring System Documentation**  
 ## **Table of Contents**  
 1. [Product Requirements Document (PRD)](#product-requirements-document-prd)  
