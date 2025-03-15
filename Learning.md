@@ -1,4 +1,3 @@
----
 
 ### **Step 1: Understand FastAPI’s Core Philosophy**
 Start with the **[Introduction](https://fastapi.tiangolo.com/)** section. Focus on:
