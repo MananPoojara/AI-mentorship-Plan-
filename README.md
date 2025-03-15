@@ -1,4 +1,5 @@
 # AI-mentorship-Plan
+[Learning Resorce](./Learning.md)
 
 ---
 
