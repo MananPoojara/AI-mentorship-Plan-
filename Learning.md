@@ -1,5 +1,3 @@
-Got it! Let’s break down the **FastAPI documentation** into a structured learning path, focusing on **core concepts** first and then connecting them to practical use cases (including data engineering/AI). I’ll guide you through the docs with explanations and checkpoints to ensure you grasp how FastAPI works internally.
-
 ---
 
 ### **Step 1: Understand FastAPI’s Core Philosophy**
